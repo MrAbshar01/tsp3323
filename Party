@@ -1,6 +1,7 @@
 public class Party
 {
-private int guests;public int getGuests()
+private int guests;
+public int getGuests()
 {
 return guests;
 }
